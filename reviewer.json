@@ -1,12 +1,12 @@
 {
-    heyuan: {
-        ruanzk: true,
-        liukang: false,
-        chengfz: true,
-    },
-    ruanzk: {
-        heyuan: true,
-        liukang: true,
-        chengfz: true,
-    }
+  "heyuan": {
+      "ruanzk": true,
+      "liukang": false,
+      "chengfz": true
+  },
+  "ruanzk": {
+      "heyuan": true,
+      "liukang": true,
+      "chengfz": true
+  }
 }
